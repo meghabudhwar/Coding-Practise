@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meghabudhwar
-- 👀 I’m interested in playing sports , solving various coding problms and reading.
+- 👀 I’m interested in playing sports , solving various coding problems and reading.
 - 🌱 I’m currently learning C++ and Python.
 - 📫 How to reach me -> mail : megha.budhwar.3559@gmail.com
 
